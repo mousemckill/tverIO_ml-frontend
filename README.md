@@ -1,4 +1,5 @@
 # ML для фронтендера
+[Видео](https://youtu.be/3Dop7lAX5JA)
 
 ## О машинном обучении
 - https://towardsdatascience.com/
